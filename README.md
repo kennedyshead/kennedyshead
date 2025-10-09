@@ -2,4 +2,6 @@
 
 # kennedyshead
 
-<p style="text-align: center;">[![Kennedyshead's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyshead)](https://github.com/kennedyshead)</p>
+
+[![Kennedyshead's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyshead)](https://github.com/kennedyshead)
+
