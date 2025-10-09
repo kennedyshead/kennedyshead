@@ -3,5 +3,3 @@
 # kennedyshead
 
 [![Kennedyshead's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyshead)](https://github.com/kennedyshead)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kennedyshead&border_radius=6)](https://github.com/kennedyshead)
